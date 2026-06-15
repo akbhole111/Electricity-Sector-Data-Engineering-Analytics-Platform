@@ -4,3 +4,14 @@ numpy
 paho-mqtt
 plotly
 dash
+beautifulsoup4
+urllib3
+matplotlib
+seaborn
+geopandas
+folium
+geopy
+geoalchemy2
+duckdb
+jupysql
+duckdb-engine
